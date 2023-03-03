@@ -1,1 +1,2 @@
-print("how r u")
+print("how are you")
+print("I am fine")
