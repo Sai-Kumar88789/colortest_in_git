@@ -4,3 +4,4 @@ kumar
 
 reset soft 
 reset mixed(As default)
+soft after push 
