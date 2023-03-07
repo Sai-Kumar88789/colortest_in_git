@@ -5,3 +5,5 @@ kumar
 reset soft 
 reset mixed(As default)
 soft after push 
+
+I WANT TO PUSH
