@@ -3,3 +3,4 @@ sai
 kumar
 
 reset soft 
+reset mixed(As default)
