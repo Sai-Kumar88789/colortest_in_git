@@ -2,5 +2,6 @@
 file/
 
 
-*.txt
-*.py
+file.txt
+
+app.py
