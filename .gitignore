@@ -1,0 +1,6 @@
+
+file/
+
+*.txt
+*.py
+!samp.py
